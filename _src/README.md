@@ -1,5 +1,6 @@
 # Fonts
-DSFont24: Iwata G Mincho Bold (alt names: Mincho Pro Bold, Ｇ-イワタ太明朝体, IwaGMinPro-Bd.otf)
+dsfont24: Iwata G Mincho Bold (alt names: Mincho Pro Bold, Ｇ-イワタ太明朝体, IwaGMinPro-Bd.otf)
+na_english/dsfont24: Iwata G Mincho Medium (alt names: Mincho Pro, Ｇ-イワタ太明朝体, IwaGMinPro-Md.otf)
 glyph images: https://www.myfonts.com/fonts/iwata/mincho?tab=glyphs
 
 talkfont24: Auriol
