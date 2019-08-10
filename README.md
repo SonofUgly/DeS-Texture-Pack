@@ -8,5 +8,7 @@ If Demon's Souls has previously been ran on RPCS3, you must delete the contents 
 
 ## Editing .tpf files
 Extract .tpf.dcx files with [horkrux's DeS-BNDBuild fork](https://github.com/horkrux/DeS-BNDBuild/releases)
+
 Replace .dds files in the created folder
+
 Rebuild .tpf.dcx files with DeS-BNDBuild
