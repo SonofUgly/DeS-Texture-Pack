@@ -1,9 +1,7 @@
 # DeS
 Textures are .DDS DXT1 and DXT5.
 
-Size is limited to around 2048x2048. Installing 4096x4096 textures will cause the game to freeze during boot.
-
-If the .tpf file has a corresponding .drb file (like menu.tpf and menu.drb) it cannot be edited without also editing the .drb, or else the game will freeze during boot.
+The game will load indefinitely if .tpf files get too big. Because of this menu.tpf can't go above ~11.5MB, and 4K font files aren't possible.
 
 ## Fonts
 na_english/dsfont24: Iwata G Mincho Medium (alt names: Mincho Pro, Ｇ-イワタ太明朝体, IwaGMinPro-Md.otf)
