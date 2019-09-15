@@ -1,10 +1,10 @@
 # Demon's Souls Texture Pack
-High resolution font texture pack for Demon's Souls. Includes an edited menu file to remove gray outlines of certain UI elements when playing at higher resolutions.
+High resolution font texture pack for Demon's Souls. Includes edited menu files to remove gray outlines of certain UI elements when playing at higher resolutions.
 
 Currently only supports English.
 
 ## Install
-Drag/drop the font and menu folder into Demon's Souls USRDIR folder.
+Drag/drop the _font_, _menu_, and _other_ folder into Demon's Souls USRDIR folder.
 
 If Demon's Souls has previously been ran on RPCS3, you must delete the contents of RPCS3/dev_hdd1/cache/
 
